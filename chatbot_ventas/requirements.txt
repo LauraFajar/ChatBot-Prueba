@@ -3,3 +3,5 @@ python-dotenv
 pandas
 gspread
 oauth2client
+flask
+requests
